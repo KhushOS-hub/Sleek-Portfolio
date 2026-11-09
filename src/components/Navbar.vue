@@ -9,12 +9,12 @@
 
                 <li><img src="../assets//icons/linkedin.svg" alt="linkedin" srcset="" class="size-8 sm:size-11">
                 </li>
-                
+
                 <li class="inline-block border border-black rounded-md
                             px-2 py-1 text-xs
                             sm:px-3 sm:py-1.5 sm:text-sm
                             md:text-base
-                          hover:bg-black hover:text-white transition-colors">
+                            hover:border-orange-500 transition-colors">
                     <a href="/resume">Resume</a>
                 </li>
             </ul>

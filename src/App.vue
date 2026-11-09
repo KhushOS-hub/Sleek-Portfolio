@@ -1,7 +1,9 @@
 <script setup>
-import Navbar from './components/Navbar.vue';
+import Navbar from './components/navbar.vue'
+import ProfCard from './components/ProfCard.vue'
 </script>
 
 <template>
-  <Navbar />
+  <Navbar/>
+  <ProfCard/>
 </template>
