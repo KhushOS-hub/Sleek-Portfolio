@@ -1,9 +1,9 @@
 <script setup>
+import Home from './components/Home.vue'
 import Navbar from './components/navbar.vue'
-import ProfCard from './components/ProfCard.vue'
 </script>
 
 <template>
   <Navbar/>
-  <ProfCard/>
+  <Home/>
 </template>

@@ -5,7 +5,7 @@ const since = "since 2006"
 </script>
 
 <template>
-    <div class="border border-black rounded-md p-3 w-auto items-center mx-4 sm:w-3/6 mt-8 sm:mt-25 sm:mx-auto sm:ml-25 md:w-2/6 lg:w-2/7 ">
+    <div class="border border-black rounded-md p-9 w-full h-full">
 
         <!-- Top row: Profile Info -->
         <div class="flex items-center gap-3">
